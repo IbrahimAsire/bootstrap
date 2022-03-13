@@ -1,0 +1,94 @@
+body{
+  /* padding-top: 100px; */
+  /* height: 5000px; */
+}
+
+#slider img{
+  /* padding-top: 55px; */
+  width: 100%;
+  height: 500px;
+}
+
+section{
+  padding: 55px 0;
+}
+
+#services hr{
+  width: 7%;
+  background-color: forestgreen;
+  height: 2px;
+}
+
+section .row{
+  padding-top: 20px;
+
+}
+#services i{
+  color: forestgreen;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+#portfolio hr{
+  width: 7%;
+  background-color: forestgreen;
+  height: 2px;
+}
+#portfolio{
+  background-color: gainsboro;
+}
+
+#about hr{
+  width: 5%;
+  background-color: forestgreen;
+  height: 2px;
+}
+
+#team hr{
+  width: 7%;
+  background-color: forestgreen;
+  height: 2px;
+}
+#team img{
+  border-radius: 50%;
+}
+#team h6{
+  padding-top: 15px;
+}
+
+#contact{
+  background-color: gainsboro;
+}
+#contact hr{
+  width: 5%;
+  background-color: forestgreen;
+  height: 2px;
+}
+#contact i{
+  color: forestgreen;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+#contact button{
+  background-color: transparent;
+  border-radius: 5px;
+  border: 1px solid green;
+  color: green;
+}
+#contact button:hover{
+  color: white;
+  background-color: green;
+}
+textarea{
+  resize: none;
+}
+
+footer{
+  background-color: mediumaquamarine;
+  padding: 38px;
+}
+footer i{
+  padding: 15px;
+  color: white;
+  font-size: 50px;
+}
